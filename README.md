@@ -2,13 +2,13 @@
 安琪拉的Java私房菜
 
 ## Java基础
-[你不得不知道的反射(非常重要)](https://mp.weixin.qq.com/s/emvj2YBNhBbVAhn77K6K1w)
-[一个HashMap跟面试官扯了半个小时](https://mp.weixin.qq.com/s/oRx-8XXbgage9Hf97WrDQQ)
+- [你不得不知道的反射(非常重要)](https://mp.weixin.qq.com/s/emvj2YBNhBbVAhn77K6K1w)
+- [一个HashMap跟面试官扯了半个小时](https://mp.weixin.qq.com/s/oRx-8XXbgage9Hf97WrDQQ)
 
 ## 并发编程
-[一个synchronized跟面试官扯了半个小时](https://mp.weixin.qq.com/s/ts2Pjz3VpWm50kY-Ru7iTA)
-[安琪拉教百里守约学并发编程之多线程基础](https://mp.weixin.qq.com/s/TSnYdiwUvqTZ8XamvVLuiQ)
-[一个volatile跟面试官扯了半个小时](https://mp.weixin.qq.com/s/DiEftiV_kTOlR4YmD4pggg)
+- [一个synchronized跟面试官扯了半个小时](https://mp.weixin.qq.com/s/ts2Pjz3VpWm50kY-Ru7iTA)
+- [安琪拉教百里守约学并发编程之多线程基础](https://mp.weixin.qq.com/s/TSnYdiwUvqTZ8XamvVLuiQ)
+- [一个volatile跟面试官扯了半个小时](https://mp.weixin.qq.com/s/DiEftiV_kTOlR4YmD4pggg)
 
 ## 算法篇
 [安琪拉教鲁班学算法之动态规划](https://mp.weixin.qq.com/s/tU8YGTWslkX2S-OteuF_eg)
