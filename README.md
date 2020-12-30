@@ -33,5 +33,5 @@
 -- 读者群每天会有一道题，这里记录每日一题，每周整理一下答案。
 ## 每日一题集锦
 2020.12.28-2020.12.31
-1.BeanFactory 和 FactoryBean的区别？
-2.JDK动态代理和cglib区别？
+- 1.BeanFactory 和 FactoryBean的区别？
+- 2.JDK动态代理和cglib区别？
