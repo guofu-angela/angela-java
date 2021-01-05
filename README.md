@@ -36,3 +36,6 @@
 - 1.BeanFactory 和 FactoryBean的区别？
 - 2.JDK动态代理和cglib区别？
 - 3.幂等了解吗？业务中有幂等场景吗？
+- 4.Java内存模型了解吗？堆和栈的区别是什么？
+- 5.synchronized 和 ReentrantLock什么区别？
+- 6.数据库事务用过吗？ 有没有使用事务的异常情况？
