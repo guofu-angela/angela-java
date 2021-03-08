@@ -30,6 +30,10 @@
 - [聊聊这些天收到的简历](https://mp.weixin.qq.com/s/jTHwYIqiR_xMMxBVX-SOjQ)
 - [一个半月拿到阿里字节拼多多美团offer总结](https://mp.weixin.qq.com/s/LR1eD8VoAltRKxoeynyOvw)
 
+## 程序设计
+- [DO、DTO、BO、VO、POJO区别](https://mp.weixin.qq.com/s/MWY2z3k7mTSvAWDrD8ma5w)
+
+
 ## 程序人生
 - [从时间管理聊到技术人如何保持竞争力？](https://mp.weixin.qq.com/s/JC54l0dhDUiHnolFgCNTUA)
 - [来阿里学到的第一件事竟然是](https://mp.weixin.qq.com/s/oUMFGSH-vPC7G0EyQ333cg)
