@@ -1,5 +1,5 @@
 # angela-java
-安琪拉的Java私房菜
+安琪拉的Java私房菜，来源公众号:安琪拉的博客
 
 ## Java基础
 - [你不得不知道的反射(非常重要)](https://mp.weixin.qq.com/s/emvj2YBNhBbVAhn77K6K1w)
@@ -13,6 +13,9 @@
 - [面试被问线程池，真香](https://mp.weixin.qq.com/s/xtVKp9fUoIs8d94-5P2pEA)
 - [讲讲用户空间和内核空间](https://mp.weixin.qq.com/s/dK_at5_VSWP2oiIBWowXFQ)
 - [阿里面试官问我Java线程和操作系统线程什么关系](https://mp.weixin.qq.com/s/Gxqnf5vjyaI8eSYejm7zeQ)
+
+##JVM
+- [百分百面试题:遇到过线上问题没有？](https://mp.weixin.qq.com/s/3ooT9wHfg0lGlLNuQiw2pQ)
 
 ## 算法篇
 - [安琪拉教鲁班学算法之动态规划](https://mp.weixin.qq.com/s/tU8YGTWslkX2S-OteuF_eg)
@@ -50,3 +53,4 @@
 - 4.Java内存模型了解吗？堆和栈的区别是什么？
 - 5.synchronized 和 ReentrantLock什么区别？
 - 6.数据库事务用过吗？ 有没有使用事务的异常情况？
+
