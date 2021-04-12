@@ -16,6 +16,7 @@
 
 ## JVM
 - [百分百面试题:遇到过线上问题没有？](https://mp.weixin.qq.com/s/3ooT9wHfg0lGlLNuQiw2pQ)
+- [JVM日志参数十全大补丸](https://mp.weixin.qq.com/s/XZFEgf1ZS7gNt7lku3TF4g)
 
 ## 算法篇
 - [安琪拉教鲁班学算法之动态规划](https://mp.weixin.qq.com/s/tU8YGTWslkX2S-OteuF_eg)
